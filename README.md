@@ -1,1 +1,1 @@
-# react-game
+# React Based tic-tac-toe game
